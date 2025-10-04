@@ -150,3 +150,13 @@ If you encounter any issues or have questions, please:
 **Happy Farming! 🌱**
 
 *Built with ❤️ for the agricultural community*
+
+**OUTPUT**
+
+<img width="478" height="304" alt="image" src="https://github.com/user-attachments/assets/e1458c15-9c97-4a16-8fe3-ff46f4fabbb9" />
+<img width="536" height="626" alt="image" src="https://github.com/user-attachments/assets/445f7502-62b7-4716-963b-01a589f7f9f1" />
+<img width="545" height="559" alt="image" src="https://github.com/user-attachments/assets/f2534b94-2b0f-4850-8aae-0acf63166ff1" />
+<img width="1033" height="385" alt="image" src="https://github.com/user-attachments/assets/924ecd52-6b88-4bef-9468-8e59f0d993f9" />
+<img width="588" height="461" alt="image" src="https://github.com/user-attachments/assets/35d8a639-2073-4206-8648-66d87ddfc0c8" />
+<img width="561" height="376" alt="image" src="https://github.com/user-attachments/assets/c5be758b-0e67-4af1-b499-3c3aa3859f26" />
+
